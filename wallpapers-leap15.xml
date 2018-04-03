@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+	<wallpaper>
+		<name>openSUSE Leap 15.0 Community Wallpapers</name>
+		<filename>/usr/share/wallpapers/leap15/leap15.xml</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper>
+		<name>SOOC</name>
+		<filename>/usr/share/wallpapers/leap15/6879668330_1b94d11af6_o.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper>
+		<name>Somewhere in the redwoods of California</name>
+		<filename>/usr/share/wallpapers/leap15/8014056994_ae5b0f5009_o.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper>
+		<name>Rocky Mountain national park, Colorado</name>
+		<filename>/usr/share/wallpapers/leap15/8014068625_6e5bb6d953_o.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper>
+		<name>Unnamed</name>
+		<filename>/usr/share/wallpapers/leap15/8014075767_b261a4b770_o.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper>
+		<name>Forest</name>
+		<filename>/usr/share/wallpapers/leap15/8245156454_c722d3050e_o.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper>
+		<name>Big Grey</name>
+		<filename>/usr/share/wallpapers/leap15/8245158590_34a868615f_o.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper>
+		<name>Gerlos</name>
+		<filename>/usr/share/wallpapers/leap15/16822814451_1fd77342f7_o.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper>
+		<name>Bird Tree</name>
+		<filename>/usr/share/wallpapers/leap15/bird_tree_Swedneck.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper>
+		<name>Roll</name>
+		<filename>/usr/share/wallpapers/leap15/roll_lcp.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper>
+		<name>Tower</name>
+		<filename>/usr/share/wallpapers/leap15/tower_lcp.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper>
+		<name>Geo Cyan</name>
+		<filename>/usr/share/wallpapers/leap15/4k_geo_cyan_by_darthwound-dc5lffo.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+</wallpapers>
