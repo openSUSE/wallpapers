@@ -1,9 +1,11 @@
 # wallpapers
 
-**openSUSE wallpaper contest**
+Contest is over, better luck next time :D
 
-Resolution: 4K +
+~~**openSUSE wallpaper contest**~~
 
-License: CC allowing for commercial use (attatched in seperate TXT file)
+~~Resolution: 4K +~~
 
-Pull request welcome :D
+~~License: CC allowing for commercial use (attatched in seperate TXT file)~~
+
+~~Pull request welcome :D~~
