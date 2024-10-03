@@ -11,9 +11,15 @@ install:
 				png_file=${DESTDIR}/usr/share/wallpapers/leap$${VERSION}/`basename $${svg} .svg`.png; \
 				rsvg-convert $${svg} -o $${png_file}; \
 				optipng -o2 $${png_file}; \
-				install -D -m 0644 $${png_file} ${DESTDIR}/usr/share/wallpapers/leap$${VERSION}/; \
 			done; \
 		fi; \
-		install -D -m 0644 $${dir}/*.jpg ${DESTDIR}/usr/share/wallpapers/leap$${VERSION}/; \
-		install -D -m 0644 $${dir}/*.xml ${DESTDIR}/usr/share/wallpapers/leap$${VERSION}/; \
+		if ls $${dir}/*.jpg >/dev/null 2>&1; then \
+			install -D -m 0644 $${dir}/*.jpg ${DESTDIR}/usr/share/wallpapers/leap$${VERSION}/; \
+		fi; \
+		if ls $${dir}/*.xml >/dev/null 2>&1; then \
+			install -D -m 0644 $${dir}/*.xml ${DESTDIR}/usr/share/wallpapers/leap$${VERSION}/; \
+		fi; \
+		if ls $${dir}/*.png >/dev/null 2>&1; then \
+			install -D -m 0644 $${dir}/*.png ${DESTDIR}/usr/share/wallpapers/leap$${VERSION}/; \
+		fi; \
 	done
