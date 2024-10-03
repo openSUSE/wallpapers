@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+	<wallpaper>
+		<name>Project gradient</name>
+		<filename>/usr/share/wallpapers/leap16/project.png</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper>
+		<name>Blue-Tailed Day Gecko in the Ebony Forest of Mauritius</name>
+		<filename>/usr/share/wallpapers/leap16/blue_tailed_day_gecko_ebony_forest_mauritius.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+</wallpapers>
