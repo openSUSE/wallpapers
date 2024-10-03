@@ -10,7 +10,7 @@ install:
 			for svg in $${dir}/*.svg; do \
 				png_file=${DESTDIR}/usr/share/wallpapers/leap$${VERSION}/`basename $${svg} .svg`.png; \
 				rsvg-convert $${svg} -o $${png_file}; \
-				optipng -o5 $${png_file}; \
+				optipng -o2 $${png_file}; \
 				install -D -m 0644 $${png_file} ${DESTDIR}/usr/share/wallpapers/leap$${VERSION}/; \
 			done; \
 		fi; \
