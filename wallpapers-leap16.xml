@@ -11,4 +11,9 @@
 		<filename>/usr/share/wallpapers/leap16/blue_tailed_day_gecko_ebony_forest_mauritius.jpg</filename>
 		<options>zoom</options>
 	</wallpaper>
+	<wallpaper>
+		<name>openSUSE take on a hyprland wallpaper from kathcfarias</name>
+		<filename>/usr/share/wallpapers/leap16/hyprland-opensuse.png</filename>
+		<options>zoom</options>
+	</wallpaper>
 </wallpapers>
